@@ -1,0 +1,20 @@
+.Button--cover{
+   display: flex; 
+   flex: 1;
+   flex-shrink: 1;
+   height: 80px;
+   justify-content: center;
+   align-items: center;
+   font-size: 30px;
+   background-color: #DCDDE3;
+   color: #5a5a5a;
+   margin: 4px;
+   border-radius: 25px;
+   
+}
+
+.Calc--row{
+    display: flex;
+   
+}
+

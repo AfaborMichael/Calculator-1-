@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+ 
+}
+
+.App{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.whole--calc{
+  background-color: white;
+  width: 400px;
+  border-radius: 17px;
+}

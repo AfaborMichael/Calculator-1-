@@ -1,0 +1,28 @@
+.Input--cover{
+    display: flex;
+    height: 100px;
+    flex-basis:90%;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 10px;
+    flex-direction: column;
+  background: black;
+  border-radius: 25px;
+  color:white;
+ 
+}
+.Input--wrapper{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height:150px;
+}
+
+.results{
+    flex-shrink: 1;
+    font-size: 10px;
+}
+.test{
+    flex-shrink: 1;
+    font-size: 18px;
+}
